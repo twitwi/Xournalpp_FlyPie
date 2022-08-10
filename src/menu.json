@@ -14,6 +14,15 @@
         "angle": -1
       },
       {
+        "name": "Default",
+        "icon": "/home/brayden/Documents/git_cloned_dirs/xournalpp/ui/iconsColor-dark/hicolor/scalable/actions/xopp-default.svg",
+        "type": "Shortcut",
+        "data": {
+          "shortcut": "<Shift><Control>d"
+        },
+        "angle": -1
+      },
+      {
         "name": "Hand Tool",
         "icon": "/home/brayden/Documents/git_cloned_dirs/xournalpp/ui/iconsColor-dark/hicolor/scalable/actions/xopp-hand.svg",
         "type": "Shortcut",
